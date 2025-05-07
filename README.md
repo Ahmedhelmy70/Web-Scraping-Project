@@ -32,7 +32,3 @@ The project generates four separate visualizations, saved as PNG files:
 - Python 3.8+
 - MongoDB (local or remote, e.g., MongoDB Atlas)
 - Libraries: `pandas`, `matplotlib`, `seaborn`, `pymongo`
-
-Install dependencies:
-```bash
-pip install pandas matplotlib seaborn pymongo
